@@ -1,2 +1,2 @@
 # Grubbly food ui
-[https://github.com/kai-enc/Grubbly-food-ui/blob/main/Photos%20(1).png]
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
